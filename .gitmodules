@@ -1,0 +1,3 @@
+[submodule "Plugins/SpacesMarkerManager"]
+	path = Plugins/SpacesMarkerManager
+	url = https://github.com/from81/SpacesMarkerManager.git
